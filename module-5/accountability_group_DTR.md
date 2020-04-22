@@ -19,7 +19,6 @@ Schedule for weekly meetings and regular Stand Ups (must have 1 weekly meeting a
 
 * What does everyone need in terms of self-care and support:
   * Systems, people, activities for mental health support:
-  * Systems, people, activities for physical health support:
   * How we will hold each other accountable to using these supports:
 
 #### Meeting Structure
